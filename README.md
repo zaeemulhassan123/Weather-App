@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Weather App
 
 A modern web application that provides real-time weather information for locations around the world.
@@ -40,3 +41,7 @@ MIT License
 
 Contributions, issues, and feature requests are welcome!
 
+=======
+# Weather-App
+Practice Project to understand the working of API's
+>>>>>>> 0ddd79159c13c2c223724bbe6db96b4e4495e298
