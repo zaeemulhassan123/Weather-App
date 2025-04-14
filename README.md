@@ -32,11 +32,6 @@ A modern web application that provides real-time weather information for locatio
 
 Enter a city name or location in the search bar to get the current weather conditions and forecast for that area.
 
-## License
-
-MIT License
-
 ## Contributing
 
 Contributions, issues, and feature requests are welcome!
-
